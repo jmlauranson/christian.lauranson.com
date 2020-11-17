@@ -28,9 +28,10 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/laurosaz
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: facebook
+    icon_pack: fab
+    link: https://facebook.com/laurosaz
+
 
 organizations: []
 
