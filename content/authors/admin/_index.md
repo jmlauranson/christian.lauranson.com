@@ -30,7 +30,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/laurosaz
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -59,4 +59,4 @@ Enseigne en tant que Maître de Conférences à l'université Jean-Monnet-Saint-
 Exerce ensuite à l'université Clermont I.
 
 2002-2015\
-Devient Professeur agrégé d'histoire du droit à l'université Lyon III Jean Moulin.
+Devient Professeur agrégé d'histoire du droit à l'université Lyon III Jean Moulin.  
