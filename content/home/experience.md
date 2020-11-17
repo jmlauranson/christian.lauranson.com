@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Lyon"
   date_start = "2002"
   date_end = "2015"
-  description = """
-  """
+  description = ""
   
   [[experience]]
   title = "Docteur en Histoire du droit"
@@ -34,8 +33,7 @@ date_format = "Jan 2006"
   location = "Clermont-Ferrand"
   date_start = "1996"
   date_end = "2002"
-  description = """
-  """
+  description = ""
 
 [[experience]]
   title = "Maître de conférence en Histoire du droit"
@@ -44,7 +42,4 @@ date_format = "Jan 2006"
   location = " Saint-Étienne"
   date_start = "1984"
   date_end = "1995"
-  description = """
-  """
-
-+++
+  description = ""
