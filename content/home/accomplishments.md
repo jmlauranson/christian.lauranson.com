@@ -21,10 +21,10 @@ date_format = "Monday 02 Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Neural Networks and Deep Learning"
+  title = ""
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = ""
   date_end = ""
   description = ""
 

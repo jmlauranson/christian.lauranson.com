@@ -26,17 +26,17 @@ date_format = "Jan 2006"
   company = "Université Jean-Moulin-Lyon-III"
   company_url = "https://www.univ-lyon3.fr"
   location = "Lyon"
-  date_start = "2002"
-  date_end = "2015"
+  date_start = "2002-01-01"
+  date_end = "2015-01-01"
   description = ""
   
-  [[experience]]
+[[experience]]
   title = "Docteur en Histoire du droit"
   company = "Université Clermont I"
-  company_url = "https://www.uca.fr"
+  company_url = ""
   location = "Clermont-Ferrand"
-  date_start = "1996"
-  date_end = "2002"
+  date_start = "1996-01-01"
+  date_end = "2002-01-01"
   description = ""
 
 [[experience]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   company = "Université Jean-Monnet"
   company_url = "https://www.univ-st-etienne.fr"
   location = " Saint-Étienne"
-  date_start = "1984"
-  date_end = "1995"
+  date_start = "1984-01-01"
+  date_end = "1995-01-01"
   description = ""
 
 +++
