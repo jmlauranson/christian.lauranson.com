@@ -1,74 +1,70 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Christian Lauranson-Rosaz
+role: Historien du Haut Moyen Age
+avatar_filename: clr-photo.jpg
+bio: Étudiant, assistant puis maître de conférences à l'université
+  Jean-Monnet-Saint-Étienne (1985-1995), Christian Lauranson-Rosaz exerce
+  ensuite à l'université Clermont I (1996-2002), avant de devenir professeur
+  agrégé d'histoire du droit à l'université Lyon III Jean Moulin1 de 2002 à
+  2015.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Ses recherches portent sur le premier Moyen Âge (ve – xie siècles)
+  - pour lequel il a étudié les « droits intermédiaires »
+  - les élites aristocratiques et les féodalités
+  - l'Église
+  - le droit canonique et les ordres religieux.  Docteur en histoire du droit de
+    l'université Paris-Nanterre
+  - sa thèse
+  - dirigée par Jean-Pierre Poly
+  - a porté sur L’Auvergne et ses marges (Velay
+  - "Gévaudan) du viiie au xie siècle : la fin du monde antique ?4. Il y
+    démontre la survivance/permanence des valeurs du Bas-Empire"
+  - tant en ce qui concerne le droit et les institutions que les structures
+    socio-économiques
+  - la culture et les mentalités
+  - et le bouleversement qu’elles connaissent autour de l’an Mil
+  - bouleversement occasionné par la fameuse « mutation féodale ».
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+organizations:
+  - name: Stanford University
+    url: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
 ---
+1952\
+Naissance à Autun, France.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+1984\
+Étudiant et Assistant à l'université Jean-Monnet de Saint-Étienne.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+1984 - Devient Docteur en histoire du droit de l'université Paris-Nanterre, [sa thèse](http://christian.lauranson.com/), dirigée par Jean-Pierre Poly, a porté sur L’Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle : la fin du monde antique ?
+
+1987-1995\
+Enseigne en tant que Maître de Conférences à l'université Jean-Monnet-Saint-Étienne.
+
+1996-2002\
+Exerce ensuite à l'université Clermont I.
+
+2002-2015\
+Devient Professeur agrégé d'histoire du droit à l'université Lyon III Jean Moulin.
