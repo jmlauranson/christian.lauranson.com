@@ -8,22 +8,16 @@ bio: Étudiant, assistant puis maître de conférences à l'université
   agrégé d'histoire du droit à l'université Lyon III Jean Moulin1 de 2002 à
   2015.
 interests:
-  - Ses recherches portent sur le premier Moyen Âge (ve – xie siècles)
-  - pour lequel il a étudié les « droits intermédiaires »
-  - les élites aristocratiques et les féodalités
+  - Premier Moyen Âge (ve – xie siècles)
+  - Etude des « droits intermédiaires »
+  - Élites aristocratiques et les féodalités
   - l'Église
-  - le droit canonique et les ordres religieux.  Docteur en histoire du droit de
-    l'université Paris-Nanterre
-  - sa thèse
-  - dirigée par Jean-Pierre Poly
-  - a porté sur L’Auvergne et ses marges (Velay
-  - "Gévaudan) du viiie au xie siècle : la fin du monde antique ?4. Il y
-    démontre la survivance/permanence des valeurs du Bas-Empire"
-  - tant en ce qui concerne le droit et les institutions que les structures
-    socio-économiques
-  - la culture et les mentalités
-  - et le bouleversement qu’elles connaissent autour de l’an Mil
-  - bouleversement occasionné par la fameuse « mutation féodale ».
+  - Droit canonique et les ordres religieux
+  - Survivance / permanence des valeurs du Bas-Empire
+  - Droit, Institutions et structuressocio-économiques
+  - Culture et les mentalités
+  - l’an Mil
+  - La mutation féodale
 social:
   - icon: envelope
     icon_pack: fas
