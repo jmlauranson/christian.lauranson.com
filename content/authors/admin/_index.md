@@ -1,9 +1,9 @@
 ---
-title: Christian Lauranson-Rosaz
+title: Pr. Christian Lauranson-Rosaz
 
 role: Historien du Haut Moyen Age
 
-avatar_filename: clr-photo.jpg
+avatar_filename: ./clr-photo.jpg
 
 bio: Étudiant, assistant puis maître de conférences à l'université
   Jean-Monnet-Saint-Étienne (1985-1995), Christian Lauranson-Rosaz exerce
