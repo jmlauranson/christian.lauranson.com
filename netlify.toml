@@ -24,3 +24,8 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/contact"
+  to = "https://christian.lauranson.com/#contact"
+  status = 301
