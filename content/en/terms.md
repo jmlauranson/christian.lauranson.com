@@ -27,13 +27,13 @@ For the purposes of these Terms and Conditions:
 
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 - **Country** refers to:  France
-- <strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Christian Lauranson Rosaz.
-- <strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-- <strong>Service</strong> refers to the Website.
-- <strong>Terms and Conditions</strong> (also referred as &quot;Terms&quot;) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the <a href="https://www.privacypolicies.com/terms-conditions-generator/" target="_blank">Terms and Conditions Generator</a>.
-- <strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- <strong>Website</strong> refers to Christian Lauranson Rosaz, accessible from <a href="https://christian.lauranson.com" rel="external nofollow noopener" target="_blank">https://christian.lauranson.com</a>
-- <strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+- **Company** (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Christian Lauranson Rosaz.
+- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+- **Service** refers to the Website.
+- **Terms and Conditions** (also referred as &quot;Terms&quot;) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.privacypolicies.com/terms-conditions-generator/).
+- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+- **Website** refers to Christian Lauranson Rosaz, accessible from [https://christian.lauranson.com](https://christian.lauranson.com)
+- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## Acknowledgment
 
@@ -105,6 +105,7 @@ By continuing to access or use Our Service after those revisions become effectiv
 ## Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us:
+
 - By email: christian@lauranson.com
 - [By visiting this page on our website:](https://christian.lauranson.com/#contact)
 
