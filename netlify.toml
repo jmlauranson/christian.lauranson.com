@@ -28,4 +28,4 @@
 [[redirects]]
   from = "/contact"
   to = "https://christian.lauranson.com/#contact"
-  status = 301
+  status = 200
