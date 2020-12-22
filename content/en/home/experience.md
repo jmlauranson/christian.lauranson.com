@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Expérience"
+title = "Parcours"
 subtitle = ""
 
 # Date format for experience
@@ -22,12 +22,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Docteur en Histoire du droit"
-  company = "Université Jean-Moulin-Lyon-III"
-  company_url = "https://www.univ-lyon3.fr"
-  location = "Lyon"
-  date_start = "2002-01-01"
-  date_end = "2015-01-01"
+  title = "Maître de conférence en Histoire du droit"
+  company = "Université Jean-Monnet"
+  company_url = "https://www.univ-st-etienne.fr"
+  location = " Saint-Étienne"
+  date_start = "1984-01-01"
+  date_end = "1995-01-01"
   description = ""
   
 [[experience]]
@@ -40,12 +40,12 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Maître de conférence en Histoire du droit"
-  company = "Université Jean-Monnet"
-  company_url = "https://www.univ-st-etienne.fr"
-  location = " Saint-Étienne"
-  date_start = "1984-01-01"
-  date_end = "1995-01-01"
+  title = "Docteur en Histoire du droit"
+  company = "Université Jean-Moulin-Lyon-III"
+  company_url = "https://www.univ-lyon3.fr"
+  location = "Lyon"
+  date_start = "2002-01-01"
+  date_end = "2015-01-01"
   description = ""
 
 +++

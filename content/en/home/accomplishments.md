@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Monday 02 Jan 2006"
+date_format = "2006 Jan 02"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
