@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   location = "Lyon"
   date_start = "2002-01-01"
   date_end = "2015-01-01"
-  description = ""
+  description = "Président de la section d'Histoire du droit. Agrégé des Facultés de Droit, Droit romain et Histoire du droit. Membre du CNU"
 
 +++

@@ -1,11 +1,11 @@
 ---
-title: Hommage à Christian Lauranson-Rosaz
+title: Hommage à Christian Lauranson-Rosaz 1952-2016
 
 role: Historien du Haut Moyen Age
 
 avatar_filename: static/media/clr-photo.jpg
 
-bio:
+bio: "Étudiant, puis Assistant à l’Université Jean Monnet de Saint-Étienne, il y a ensuite été Maître de Conférences de 1985 à 1996. Agrégé des Facultés de Droit au concours de 1996, il a été nommé Professeur à l’Université d’Auvergne (Clermont I), où il a exercé de 1996 à 2002. Depuis 2002, il est devenu par mutation Professeur à l’Université Jean Moulin (Lyon 3)."
 
 interests: 
   
@@ -44,8 +44,12 @@ user_groups:
 
 highlight_name: false
 ---
+Christian LAURANSON-ROSAZ, né en 1952 en Saône-et-Loire.
 
-- 1952 : Christian est né en Saône et Loire.
-- 1985 - 1995: Il étudie, devient assistant, puis maître de conférences à l'université Jean-Monnet de Saint-Étienne (1985-1995).
-- 1996 - 2002: Il exerce ensuite à l'université d'Auvergne Clermont I.
-- 2002 - 2015: Il devient professeur agrégé d'histoire du droit à l'université Jean Moulin1 Lyon.
+Étudiant, puis Assistant à l’Université Jean Monnet de Saint-Étienne, il y a ensuite été Maître de Conférences de 1985 à 1996.
+
+Agrégé des Facultés de Droit au concours de 1996, il a été nommé Professeur à l'Université d'Auvergne (Clermont I), où il a exercé de 1996 à 2002.
+
+De 2002 à 2015, il est devenu par mutation Professeur à l'Université Jean Moulin Lyon 3.
+
+Docteur d'État en Histoire du Droit en 1984 (Université de Paris X-Nanterre), [sa thèse](https://www.academia.edu/3513062/LAuvergne_et_ses_marges_Velay_G%C3%A9vaudan_du_VIIIe_au_XIe_si%C3%A8cle_La_fin_du_monde_antique_th%C3%A8se_r%C3%A9%C3%A9dition_2007_{:target="_blank"}), dirigée par de Jean-Pierre POLY, a porté sur L’Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle. La fin du monde antique ? (Le Puy-en-Velay, Les Cahiers de la Haute-Loire, 1987, diffusion Librairie internationale Picard, réédition 2007). Il a tenté de démontrer la survivance/permanence des valeurs antiques – celles du Bas-Empire −, tant en ce qui concerne le droit et les institutions que les structures socio-économiques, la culture et les mentalités, et le bouleversement qu’elles connaissent autour de l’an Mil, bouleversement occasionné par la fameuse et contestée « mutation féodale ».

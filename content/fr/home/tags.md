@@ -20,19 +20,23 @@ subtitle = "Histoire du droit et des institutions"
   font_size_min = 0.7
   font_size_max = 2.0
 +++
+Les spécialités des recherches conduitent par Chrisitian dans le domaine de l’Histoire du droit, des institutions publiques et des faits sociaux, sont :
 
-Les recherches conduitent par Christian, portent sur le **premier Moyen Âge (Ve – XIe siècles)**, pour lequel il a étudié les « droits intermédiaires », les élites aristocratiques et les féodalités, l'Église, le droit canonique et les ordres religieux.
+- l’histoire des « droits intermédiaires » ou du premier Moyen Âge (5e-11e siècles) (avec la question de la permanence du droit romain / traditio juris)
+- l’histoire des féodalités, l’histoire des élites aristocratiques
+- l’histoire de l’Église, du droit canonique et des ordres religieux
+  
+L’anthropologie juridique l’a amené à s’intéresser à des domaines plus précis tels que :
+- les questions d’identité (statut des personnes, ethnogenèse, anthroponymie et mémoire aristocratique)
+- l’espaces et territoires (géographie politique, évolution des circonscriptions administratives et judiciaires) 
+- l’idéologie cléricale (modèles hagiographiques, lutte contre le paganisme, naissance du mariage chrétien, érémitisme et réseaux monastiques, pouvoir épiscopal et chapitres cathédraux, essor des mouvements de paix).
 
-Docteur en histoire du droit de l'université Paris-Nanterre, [sa thèse](https://www.academia.edu/3513062/LAuvergne_et_ses_marges_Velay_G%C3%A9vaudan_du_VIIIe_au_XIe_si%C3%A8cle_La_fin_du_monde_antique_th%C3%A8se_r%C3%A9%C3%A9dition_2007_){:target="_blank"}, dirigée par Jean-Pierre Poly, a porté sur L’Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle : la fin du monde antique ?
+Ses recherches sont particulièrement orientées vers le Midi de la France et les alentours de l’an Mil, pour y montrer la persistance des structures et des mentalités antiques durant le haut Moyen Âge.
 
-Il y démontre la survivance/permanence des valeurs du Bas-Empire, tant en ce qui concerne le droit et les institutions que les structures socio-économiques, la culture et les mentalités, et le bouleversement qu’elles connaissent autour de l’an Mil, bouleversement occasionné par la fameuse « mutation féodale ».
+Outre [sa thèse](https://www.academia.edu/3513062/LAuvergne_et_ses_marges_Velay_G%C3%A9vaudan_du_VIIIe_au_XIe_si%C3%A8cle_La_fin_du_monde_antique_th%C3%A8se_r%C3%A9%C3%A9dition_2007_{:target="_blank"}) et des articles variés dans les domaines cités, il a notamment collaboré à:
 
-Autres thèmes de recherche :
+- La France de l’An Mil (dir. Robert Delort, Paris, Seuil, 1990), 
+- l’Atlas de la France de l’An Mil (dir. Michel Parisse, Paris, Picard, 1994)
+- l’Album Gerbert (École des Chartes, Paris, 1996).
 
-- l’an Mil et la mutation féodale
-- Premier Moyen Âge (Ve – XIe siècles)
-- Étude des « droits intermédiaires »
-- Élites aristocratiques et les féodalités
-- l'Église, le droit canonique et les ordres religieux
-- Survivance / permanence des valeurs du Bas-Empire
-- Droit, Institutions et structures socio-économiques
+Enfin, il a dirigé ou dirige un 13 thèses, dont certains auteurs sont à présent membres du corps universitaire.

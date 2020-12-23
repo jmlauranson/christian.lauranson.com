@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Une carrière dédiee à l'Histoire"
+title = "Une carrière dédiée à l'Histoire du Droit"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Enseignement"
+  name = "Enseignant"
   description = ""
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
-  name = "Recherche et Publications"
+  name = "Chercheur"
   description = ""  
   
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Colloques"
+  name = "Conférencier"
   description = ""
 
 # Uncomment to use emoji icons.
