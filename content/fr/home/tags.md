@@ -27,8 +27,9 @@ Les spécialités des recherches conduitent par Chrisitian dans le domaine de l�
 - l’histoire de l’Église, du droit canonique et des ordres religieux
   
 L’anthropologie juridique l’a amené à s’intéresser à des domaines plus précis tels que :
+
 - les questions d’identité (statut des personnes, ethnogenèse, anthroponymie et mémoire aristocratique)
-- l’espaces et territoires (géographie politique, évolution des circonscriptions administratives et judiciaires) 
+- l’espaces et les territoires (géographie politique, évolution des circonscriptions administratives et judiciaires)
 - l’idéologie cléricale (modèles hagiographiques, lutte contre le paganisme, naissance du mariage chrétien, érémitisme et réseaux monastiques, pouvoir épiscopal et chapitres cathédraux, essor des mouvements de paix).
 
 Ses recherches sont particulièrement orientées vers le Midi de la France et les alentours de l’an Mil, pour y montrer la persistance des structures et des mentalités antiques durant le haut Moyen Âge.

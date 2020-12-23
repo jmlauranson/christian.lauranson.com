@@ -3,11 +3,11 @@
 
 title: "L'Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle : la fin du monde antique ?,"
 authors: []
-date: 1984-12-22T09:15:57+01:00
+date: 1984-03-10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-22T09:15:57+01:00
+publishDate: 1984-03-10
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
