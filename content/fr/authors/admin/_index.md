@@ -1,7 +1,7 @@
 ---
 title: Hommage à Christian Lauranson-Rosaz 1952-2016
 
-role: Historien du Haut Moyen Age
+role: Historien médiéviste
 
 avatar_filename: static/media/clr-photo.jpg
 

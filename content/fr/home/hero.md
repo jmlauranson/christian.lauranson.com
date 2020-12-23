@@ -42,7 +42,7 @@ hero_media = "clr-photo.jpg"
 
 ## 1952-2016
 
-### Historien du Haut Moyen Age
+### Historien du Haut Moyen Âge
 
 {{< icon name="info" pack="fas" >}}  {{< staticref "/#about">}}Biographie{{< /staticref >}}
 
