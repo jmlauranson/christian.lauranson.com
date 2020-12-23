@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-[Accéder à toutes les publications ici](./publication/).
+[Liste non exhaustive des publications ici](./publication/).
 {{% /callout %}}

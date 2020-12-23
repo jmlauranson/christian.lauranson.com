@@ -13,6 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-Bientôt disponible.
+
 
 {{< icon name="home" pack="fas" >}}  {{< staticref "/">}}Retour à l'accueil{{< /staticref >}}

@@ -6,7 +6,7 @@ active = false  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 title = "Thématiques"
-subtitle = ""
+subtitle = "Histoire du droit et des institutions"
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
@@ -20,12 +20,19 @@ subtitle = ""
   font_size_min = 0.7
   font_size_max = 2.0
 +++
-  - Histoire du droit et des institutions
-  - l’an Mil et la mutation féodale
-  - Culture et les mentalités
-  - Premier Moyen Âge (Ve – XIe siècles)
-  - Étude des « droits intermédiaires »
-  - Élites aristocratiques et les féodalités
-  - l'Église, le droit canonique et les ordres religieux
-  - Survivance / permanence des valeurs du Bas-Empire
-  - Droit, Institutions et structures socio-économiques
+
+Les recherches conduites par Christian portent sur le premier Moyen Âge (Ve – XIe siècles), pour lequel il a étudié les « droits intermédiaires », les élites aristocratiques et les féodalités, l’Église, le droit canonique et les ordres religieux.
+
+Docteur en histoire du droit de l’université Paris-Nanterre, sa thèse, dirigée par Jean-Pierre Poly, a porté sur L’Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle : la fin du monde antique ?
+
+Il y démontre la survivance/permanence des valeurs du Bas-Empire, tant en ce qui concerne le droit et les institutions que les structures socio-économiques, la culture et les mentalités, et le bouleversement qu’elles connaissent autour de l’an Mil, bouleversement occasionné par la fameuse « mutation féodale ».
+
+- Histoire du droit et des institutions
+- l’an Mil et la mutation féodale
+- Culture et les mentalités
+- Premier Moyen Âge (Ve – XIe siècles)
+- Étude des « droits intermédiaires »
+- Élites aristocratiques et les féodalités
+- l'Église, le droit canonique et les ordres religieux
+- Survivance / permanence des valeurs du Bas-Empire
+- Droit, Institutions et structures socio-économiques
