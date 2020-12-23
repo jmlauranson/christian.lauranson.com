@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Centres d'Intérêt"
-subtitle = ""
+subtitle = "une carriere dediée à"
 
 # Showcase personal skills or business features.
 # 
@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Conférence"
+  name = "Colloques et Conférences"
   description = "20%"
 
 # Uncomment to use emoji icons.

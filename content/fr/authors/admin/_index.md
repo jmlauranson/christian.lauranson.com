@@ -45,4 +45,7 @@ user_groups:
 highlight_name: false
 ---
 
-Né en 1952, Christian est étudiant, assistant, puis maître de conférences à l'université Jean-Monnet-Saint-Étienne (1985-1995). Il exerce ensuite à l'université Clermont I (1996-2002), avant de devenir professeur agrégé d'histoire du droit à l'université Lyon III Jean Moulin1 de 2002 à 2015.
+- 1952 : Christian est né en Saône et Loire.
+- 1985 - 1995: Il étudie, devient assistant, puis maître de conférences à l'université Jean-Monnet de Saint-Étienne (1985-1995).
+- 1996 - 2002: Il exerce ensuite à l'université d'Auvergne Clermont I.
+- 2002 - 2015: Il devient professeur agrégé d'histoire du droit à l'université Jean Moulin1 Lyon.

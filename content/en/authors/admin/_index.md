@@ -7,16 +7,8 @@ avatar_filename: static/media/clr-photo.jpg
 
 bio: ""
 
-interests:
-  - Histoire du droit et des institutions
-  - l’an Mil et la mutation féodale
-  - Culture et les mentalités
-  - Premier Moyen Âge (Ve – XIe siècles)
-  - Étude des « droits intermédiaires »
-  - Élites aristocratiques et les féodalités
-  - l'Église, le droit canonique et les ordres religieux
-  - Survivance / permanence des valeurs du Bas-Empire
-  - Droit, Institutions et structures socio-économiques
+interests: ""
+
   
 social:
   - icon: envelope
@@ -54,8 +46,7 @@ user_groups:
 highlight_name: false
 ---
 
-- Né en 1952, Christian est étudiant, assistant, puis Maître de Conférences à l'Université Jean-Monnet de Saint-Étienne de 1985 à 1995.
-
-- Il exerce à l'université Clermont I entre 1996-2002.
-
-- De 2002 à 2015 Professeur agrégé d'histoire du droit à l'Université Lyon III Jean Moulin.
+- 1952:Christian was born in France in 1952.
+- 1985-1995: He studies than becomes assistant, then Maître de Conférences at the university Jean-Monnet in Saint-Étienne, France.
+- 1996-2002: He teaches at the university Clermont I in Clermont-Ferrand, France.
+- 2002-2015: He becomes Professeur agrégé in History of Law at the university of Lyon III Jean Moulin in Lyon, France.
