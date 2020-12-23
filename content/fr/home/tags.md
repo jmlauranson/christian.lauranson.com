@@ -23,7 +23,7 @@ subtitle = "Histoire du droit et des institutions"
 
 Les recherches conduitent par Christian portent sur le **premier Moyen Âge (Ve – XIe siècles)**, pour lequel il a étudié les « droits intermédiaires », les élites aristocratiques et les féodalités, l'Église, le droit canonique et les ordres religieux.
 
-Docteur en histoire du droit de l'université Paris-Nanterre, [sa thèse](https://www.academia.edu/3513062/LAuvergne_et_ses_marges_Velay_G%C3%A9vaudan_du_VIIIe_au_XIe_si%C3%A8cle_La_fin_du_monde_antique_th%C3%A8se_r%C3%A9%C3%A9dition_2007_), dirigée par Jean-Pierre Poly, a porté sur L’Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle : la fin du monde antique ?
+Docteur en histoire du droit de l'université Paris-Nanterre, [sa thèse](https://www.academia.edu/3513062/LAuvergne_et_ses_marges_Velay_G%C3%A9vaudan_du_VIIIe_au_XIe_si%C3%A8cle_La_fin_du_monde_antique_th%C3%A8se_r%C3%A9%C3%A9dition_2007_){:target="_blank"}, dirigée par Jean-Pierre Poly, a porté sur L’Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle : la fin du monde antique ?
 
 Il y démontre la survivance/permanence des valeurs du Bas-Empire, tant en ce qui concerne le droit et les institutions que les structures socio-économiques, la culture et les mentalités, et le bouleversement qu’elles connaissent autour de l’an Mil, bouleversement occasionné par la fameuse « mutation féodale ».
 
