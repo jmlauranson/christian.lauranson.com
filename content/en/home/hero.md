@@ -44,10 +44,12 @@ hero_media = "clr-photo.jpg"
 
 ### Historien du Haut Moyen Age
 
-{{< icon name="info" pack="fas" >}}  {{< staticref "/#about">}}Biographie{{< /staticref >}}
+{{< icon name="info" pack="user" >}}  {{< staticref "#about">}}Biographie{{< /staticref >}}
 
-{{< icon name="road" pack="fas" >}}  {{< staticref "/#about">}}Parcours{{< /staticref >}}
+{{< icon name="road" pack="fas" >}}  {{< staticref "#experience">}}Parcours{{< /staticref >}}
 
-{{< icon name="book" pack="fas" >}}  {{< staticref "/publication">}}Publications{{< /staticref >}}
+{{< icon name="book" pack="fas" >}}  {{< staticref "#tags">}}Thématiques{{< /staticref >}}
 
-{{< icon name="paper-plane" pack="fas" >}}  {{< staticref "/#contact">}}Contact{{< /staticref >}}
+{{< icon name="book" pack="fas" >}}  {{< staticref "#publications">}}Publications{{< /staticref >}}
+
+{{< icon name="paper-plane" pack="fas" >}}  {{< staticref "/contact">}}Contact{{< /staticref >}}
