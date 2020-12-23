@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "and works"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-[Accéder aux publications ici](./publication/).
+[List of publications available here](./publication/).
 {{% /callout %}}

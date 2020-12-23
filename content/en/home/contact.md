@@ -10,7 +10,7 @@ headless: false
 weight: 130
 
 title: Contact
-subtitle: envoyez un message à ma famille
+subtitle: send a message to my family
 
 content:
   # Automatically link email and phone or display as text?

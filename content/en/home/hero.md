@@ -42,14 +42,14 @@ hero_media = "clr-photo.jpg"
 
 ## 1952-2016
 
-### Historien du Haut Moyen Age
+### Middle Age Historian
 
-{{< icon name="info" pack="user" >}}  {{< staticref "#about">}}Biographie{{< /staticref >}}
+{{< icon name="info" pack="user" >}}  {{< staticref "#about">}}Biography{{< /staticref >}}
 
-{{< icon name="road" pack="fas" >}}  {{< staticref "#experience">}}Parcours{{< /staticref >}}
+{{< icon name="road" pack="fas" >}}  {{< staticref "#experience">}}Academic Path{{< /staticref >}}
 
-{{< icon name="book" pack="fas" >}}  {{< staticref "#tags">}}Thématiques{{< /staticref >}}
+{{< icon name="search" pack="fas" >}}  {{< staticref "#tags">}}Research Thematics{{< /staticref >}}
 
-{{< icon name="book" pack="fas" >}}  {{< staticref "#publications">}}Publications{{< /staticref >}}
+{{< icon name="book" pack="fas" >}}  {{< staticref "#publications">}}Works and Publications{{< /staticref >}}
 
 {{< icon name="paper-plane" pack="fas" >}}  {{< staticref "/contact">}}Contact{{< /staticref >}}

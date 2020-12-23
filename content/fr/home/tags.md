@@ -24,7 +24,7 @@ Les spécialités des recherches conduitent par Chrisitian dans le domaine de l�
 
 - l’histoire des « droits intermédiaires » ou du premier Moyen Âge (5e-11e siècles) (avec la question de la permanence du droit romain / traditio juris)
 - l’histoire des féodalités, l’histoire des élites aristocratiques
-- l’histoire de l’Église, du droit canonique et des ordres religieux
+- l’histoire de l’Église, <br/>du droit canonique et des ordres religieux
   
 L’anthropologie juridique l’a amené à s’intéresser à des domaines plus précis tels que :
 

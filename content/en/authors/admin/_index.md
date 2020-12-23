@@ -1,7 +1,7 @@
 ---
-title: Hommage à Christian Lauranson-Rosaz
+title: Tribute to Christian Lauranson-Rosaz
 
-role: Historien du Haut Moyen Age
+role: Middle Age Historian
 
 avatar_filename: static/media/clr-photo.jpg
 
