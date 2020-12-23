@@ -46,8 +46,10 @@ hero_media = "clr-photo.jpg"
 
 {{< icon name="info" pack="fas" >}}  {{< staticref "/#about">}}Biographie{{< /staticref >}}
 
-{{< icon name="road" pack="fas" >}}  {{< staticref "/#about">}}Parcours{{< /staticref >}}
+{{< icon name="road" pack="fas" >}}  {{< staticref "/#experience">}}Parcours{{< /staticref >}}
 
-{{< icon name="book" pack="fas" >}}  {{< staticref "/publication">}}Publications{{< /staticref >}}
+{{< icon name="search" pack="fas" >}}  {{< staticref "/#tags">}}Thématiques{{< /staticref >}}
+
+{{< icon name="book" pack="fas" >}}  {{< staticref "/#publications">}}Publications{{< /staticref >}}
 
 {{< icon name="paper-plane" pack="fas" >}}  {{< staticref "/#contact">}}Contact{{< /staticref >}}
