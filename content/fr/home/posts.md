@@ -66,3 +66,5 @@ subtitle = "articles récents"
  # CSS class.
  css_class = ""
 +++
+
+Disponible bientôt.

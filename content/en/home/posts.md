@@ -66,3 +66,5 @@ subtitle = "Recent posts"
  # CSS class.
  css_class = ""
 +++
+
+Available soon.
