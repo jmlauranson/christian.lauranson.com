@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Enseignant"
+  name = "Enseignement Doctoral"
   description = ""
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
-  name = "Chercheur"
+  name = "Recherches & Publications"
   description = ""  
   
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Conférencier"
+  name = "Colloques"
   description = ""
 
 # Uncomment to use emoji icons.
