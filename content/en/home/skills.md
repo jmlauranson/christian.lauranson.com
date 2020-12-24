@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Professor"
+  name = "Teaching"
   description = ""
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
-  name = "Reseacher"
+  name = "Research and Publications"
   description = ""  
   
 [[feature]]
