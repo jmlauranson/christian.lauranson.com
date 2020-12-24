@@ -48,7 +48,7 @@ hero_media = "clr-photo.jpg"
 
 {{< icon name="road" pack="fas" >}}  {{< staticref "/#experience">}}Parcours{{< /staticref >}}
 
-{{< icon name="search" pack="fas" >}}  {{< staticref "/#tags">}}Thématiques{{< /staticref >}}
+{{< icon name="search" pack="fas" >}}  {{< staticref "/#tags">}}Recherches{{< /staticref >}}
 
 {{< icon name="book" pack="fas" >}}  {{< staticref "/#publications">}}Publications{{< /staticref >}}
 
