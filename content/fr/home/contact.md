@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Envoyez un message à ma famille
+subtitle: Envoyez un message à la famille de Christian
 
 content:
   # Automatically link email and phone or display as text?
