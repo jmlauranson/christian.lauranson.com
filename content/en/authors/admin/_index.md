@@ -1,5 +1,5 @@
 ---
-title: Tribute to Christian Lauranson-Rosaz
+title: Christian Lauranson-Rosaz
 
 role: Middle Age Historian
 

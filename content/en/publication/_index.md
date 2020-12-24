@@ -1,5 +1,5 @@
 ---
-title: Travaux & Publications
+title: Works & Publications
 
 # View.
 #   1 = List
@@ -15,7 +15,7 @@ header:
 ---
 
 
-{{< icon name="home" pack="fas" >}}  {{< staticref "/">}}Retour à l'accueil{{< /staticref >}}
+{{< icon name="home" pack="fas" >}}  {{< staticref "/">}}Back to Home{{< /staticref >}}
 
 [1] **La condition ouvrière à Saint-Étienne à la veille de la Révolution**  
 Mémoire de Licence en Droit (= Maîtrise), ronéoté, Saint-Étienne, juin 1973. Dir. André MUTEL.

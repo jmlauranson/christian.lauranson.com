@@ -2,11 +2,11 @@
 # Tag Cloud widget.
 widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Thématiques"
-subtitle = "Histoire du droit et des institutions"
+title = "Research"
+subtitle = "History of Law and Institutions"
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
@@ -21,18 +21,18 @@ subtitle = "Histoire du droit et des institutions"
   font_size_max = 2.0
 +++
 
-Les recherches conduites par Christian portent sur le premier Moyen Âge (Ve – XIe siècles), pour lequel il a étudié les « droits intermédiaires », les élites aristocratiques et les féodalités, l’Église, le droit canonique et les ordres religieux.
+Christian's research focuses on the early Middle Ages (5th - 11th centuries), for which he studied "intermediate rights", aristocratic elites and feudal systems, the Church, canon law and religious orders.
 
-Docteur en histoire du droit de l’université Paris-Nanterre, sa thèse, dirigée par Jean-Pierre Poly, a porté sur L’Auvergne et ses marges (Velay, Gévaudan) du VIIIe au XIe siècle : la fin du monde antique ?
+With a doctorate in the history of law from the University of Paris-Nanterre, his thesis, supervised by Jean-Pierre Poly, focused on Auvergne and its margins (Velay, Gévaudan) from the 8th to the 11th century: the end of the ancient world?
 
-Il y démontre la survivance/permanence des valeurs du Bas-Empire, tant en ce qui concerne le droit et les institutions que les structures socio-économiques, la culture et les mentalités, et le bouleversement qu’elles connaissent autour de l’an Mil, bouleversement occasionné par la fameuse « mutation féodale ».
+In it, he demonstrates the survival/permanence of the values of the Lower Empire, both in terms of law and institutions and in terms of socio-economic structures, culture and mentalities, and the upheaval they underwent around the year 1000, an upheaval caused by the famous "feudal mutation".
 
-- Histoire du droit et des institutions
-- l’an Mil et la mutation féodale
-- Culture et les mentalités
-- Premier Moyen Âge (Ve – XIe siècles)
-- Étude des « droits intermédiaires »
-- Élites aristocratiques et les féodalités
-- l'Église, le droit canonique et les ordres religieux
-- Survivance / permanence des valeurs du Bas-Empire
-- Droit, Institutions et structures socio-économiques
+- History of law and institutions
+- The year 1000 and the feudal mutation
+- Culture and mentalities
+- Early Middle Ages (5th - 11th centuries)
+- Study of "intermediate rights".
+- Aristocratic elites and feudal systems
+- the Church, canon law and religious orders
+- Survival / permanence of the values of the Low Kingdom
+- Law, Institutions and Socio-Economic Structures

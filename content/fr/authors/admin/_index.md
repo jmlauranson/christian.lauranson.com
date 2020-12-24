@@ -1,5 +1,5 @@
 ---
-title: Hommage à Christian Lauranson-Rosaz 1952-2016
+title: Christian Lauranson-Rosaz 1952-2016
 
 role: Historien médiéviste
 

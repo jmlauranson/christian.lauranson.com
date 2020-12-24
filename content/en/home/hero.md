@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Christian Lauranson-Rosaz"
+title = "Tribute to Christian Lauranson-Rosaz"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "clr-photo.jpg"
@@ -48,8 +48,8 @@ hero_media = "clr-photo.jpg"
 
 {{< icon name="road" pack="fas" >}}  {{< staticref "#experience">}}Academic Path{{< /staticref >}}
 
-{{< icon name="search" pack="fas" >}}  {{< staticref "#tags">}}Research Thematics{{< /staticref >}}
+{{< icon name="search" pack="fas" >}}  {{< staticref "#tags">}}Research{{< /staticref >}}
 
-{{< icon name="book" pack="fas" >}}  {{< staticref "#publications">}}Works and Publications{{< /staticref >}}
+{{< icon name="book" pack="fas" >}}  {{< staticref "#publications">}}Publications{{< /staticref >}}
 
 {{< icon name="paper-plane" pack="fas" >}}  {{< staticref "/contact">}}Contact{{< /staticref >}}
