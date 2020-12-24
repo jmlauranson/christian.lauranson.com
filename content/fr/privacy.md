@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Bientôt disponible
+Contenu en cours de rédaction.
