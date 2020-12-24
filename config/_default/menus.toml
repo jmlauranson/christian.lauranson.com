@@ -28,7 +28,7 @@
   weight = 40
 
   [[main]]
-  name = "Thématiques"
+  name = "Recherche"
   url = "#tags"
   weight = 50
 
