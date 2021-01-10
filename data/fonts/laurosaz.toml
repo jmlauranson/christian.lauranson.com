@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Lato:400,400italic,700|PtSerif:400,400italic,700|SourceSansPro:400,400italic,700"
+google_fonts = "Lato:400,400italic,700|PtSerif:400,400italic,700"
 
 # Font families
-heading_font = "Lato"
+heading_font = "Pt Serif"
 body_font = "Lato"
 nav_font = "Pt Serif"
 mono_font = "Roboto Mono"
