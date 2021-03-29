@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Speaker"
+  name = "Talks"
   description = ""
 
 # Uncomment to use emoji icons.
