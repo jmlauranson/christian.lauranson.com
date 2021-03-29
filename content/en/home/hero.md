@@ -38,18 +38,18 @@ hero_media = "clr-photo.jpg"
 #   Remove a link/note by deleting a cta/note block.
 # Note. An optional note to show underneath the links. 
 
-+++ 
++++
 
 ## 1952-2016
 
 ### Middle Age Historian
 
-{{< icon name="info" pack="user" >}}  {{< staticref "#about">}}Biography{{< /staticref >}}
+{{< icon name="info" pack="user" >}} {{< staticref "#about">}}Biography{{< /staticref >}}
 
-{{< icon name="road" pack="fas" >}}  {{< staticref "#experience">}}Academic Path{{< /staticref >}}
+{{< icon name="road" pack="fas" >}} {{< staticref "#experience">}}Career{{< /staticref >}}
 
-{{< icon name="search" pack="fas" >}}  {{< staticref "#tags">}}Research{{< /staticref >}}
+{{< icon name="search" pack="fas" >}} {{< staticref "#tags">}}Research{{< /staticref >}}
 
-{{< icon name="book" pack="fas" >}}  {{< staticref "#publications">}}Publications{{< /staticref >}}
+{{< icon name="book" pack="fas" >}} {{< staticref "#publications">}}Publications{{< /staticref >}}
 
-{{< icon name="paper-plane" pack="fas" >}}  {{< staticref "/contact">}}Contact{{< /staticref >}}
+{{< icon name="paper-plane" pack="fas" >}} {{< staticref "/contact">}}Contact{{< /staticref >}}
