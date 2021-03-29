@@ -44,7 +44,7 @@ hero_media = "clr-photo.jpg"
 
 ### Middle Age Historian
 
-{{< icon name="info" pack="fas" >}} {{< staticref "#about">}}Biography{{< /staticref >}}
+{{< icon name="user" pack="fas" >}} {{< staticref "#about">}}Biography{{< /staticref >}}
 
 {{< icon name="road" pack="fas" >}} {{< staticref "#experience">}}Career{{< /staticref >}}
 
