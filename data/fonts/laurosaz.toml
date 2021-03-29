@@ -6,6 +6,6 @@ google_fonts = "Roboto:400,400italic,700|PtSerif:400,400italic,700"
 
 # Font families
 heading_font = "Pt Serif"
-body_font = "LRoboto"
+body_font = "Roboto"
 nav_font = "Pt Serif"
 mono_font = "Roboto Mono"
