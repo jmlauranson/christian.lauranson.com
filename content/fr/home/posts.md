@@ -67,4 +67,3 @@ subtitle = "articles récents"
  css_class = ""
 +++
 
-Disponible bientôt.
